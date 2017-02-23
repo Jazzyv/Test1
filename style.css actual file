@@ -1,0 +1,8 @@
+h1{
+   color: blue;
+   font-size: 200px
+}
+#first word{
+   color: turqoise;
+   font-size: 120px;
+}
