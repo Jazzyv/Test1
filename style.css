@@ -1,6 +1,12 @@
 h1 {
-  color: red;
+  color: maroon;
   font-size:30px;
+  font-style: italic;
+}
+
+#troublekids{
+height: 450px;
+width: 500px;
 }
 
 #shortsentence{
@@ -8,9 +14,4 @@ h1 {
   font-size: 100px;
   font-style: italic;
   font-family: cursive;
-}
-
-#troublekids{
-height: 450px;
-width: 500px;
 }
