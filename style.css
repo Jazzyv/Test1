@@ -1,6 +1,6 @@
 h1 {
-  color: purple;
-  font-size: 50px;
+  color: gray;
+  font-size: 30px;
 }
 
 #troublekids{
@@ -16,8 +16,6 @@ width: 500px;
 }
 
 #description{
-color: maroon;
+color: blue;
 font-size: 40px;
-font-style: tangerine;
-font-family: fantasy;
 }
